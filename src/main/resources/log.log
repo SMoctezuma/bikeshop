@@ -1,0 +1,585 @@
+2021-02-08 14:37:09 INFO  BikeShopController:27 - User leaving!
+2021-02-08 16:57:31 INFO  BikeShopController:30 - User is registering a new account
+2021-02-08 16:58:33 INFO  BikeShopController:30 - User is registering a new account
+2021-02-08 16:58:41 DEBUG BikeShopController:63 - Submitting new user
+2021-02-08 16:59:42 INFO  BikeShopController:30 - User is registering a new account
+2021-02-08 16:59:48 DEBUG BikeShopController:63 - com.revature.accounts.Customer@d257cd41
+2021-02-08 17:00:05 INFO  BikeShopController:30 - User is registering a new account
+2021-02-08 17:00:09 DEBUG BikeShopController:63 - com.revature.accounts.Customer@d257cd41
+2021-02-08 19:56:17 INFO  BikeShopController:30 - User is registering a new account
+2021-02-08 19:56:26 DEBUG BikeShopController:63 - Account{id=null, username='test', password='test', role=null}
+2021-02-08 19:57:42 INFO  BikeShopController:31 - User is registering a new account
+2021-02-08 19:57:48 DEBUG BikeShopController:66 - Account{id=null, username='test', password='test', role=Role [id=2, name=Customer]}
+2021-02-08 19:58:43 INFO  BikeShopController:31 - User is registering a new account
+2021-02-08 19:58:48 DEBUG BikeShopController:66 - Account{id=0, username='test', password='test', role=Role [id=2, name=Customer]}
+2021-02-13 14:11:01 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:11:13 DEBUG BikeShopController:95 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 14:11:26 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:11:31 DEBUG BikeShopController:92 - User entered a username that doesn't exist.
+2021-02-13 14:11:40 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:15:56 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:15:59 DEBUG BikeShopController:92 - User entered a username that doesn't exist.
+2021-02-13 14:17:12 INFO  BikeShopController:31 - User is registering a new account
+2021-02-13 14:17:20 DEBUG BikeShopController:66 - Account{id=0, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 14:17:20 WARN  BikeShopController:72 - User tried to register with a non unique username.
+2021-02-13 14:17:34 DEBUG BikeShopController:66 - Account{id=0, username='test', password='t', role=Role [id=1, name=Customer]}
+2021-02-13 14:17:34 DEBUG BikeShopController:69 - Account{id=2, username='test', password='t', role=Role [id=1, name=Customer]}
+2021-02-13 14:17:38 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:17:40 DEBUG BikeShopController:95 - Account{id=2, username='test', password='t', role=Role [id=1, name=Customer]}
+2021-02-13 14:19:59 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:20:01 DEBUG BikeShopController:96 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 14:20:01 DEBUG BikeShopController:37 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 14:21:15 INFO  BikeShopController:35 - User is logging in.
+2021-02-13 14:21:19 DEBUG BikeShopController:96 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 14:21:19 DEBUG BikeShopController:37 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:43:01 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:43:04 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:43:04 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:43:51 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:46:14 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:46:17 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:46:17 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:46:19 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:46:57 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:46:59 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:46:59 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:47:00 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:47:30 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:47:32 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:47:32 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:47:34 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:49:17 INFO  BikeShopController:36 - User is registering a new account
+2021-02-13 15:49:25 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:49:27 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:49:27 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:49:28 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:50:47 INFO  BikeShopController:36 - User is registering a new account
+2021-02-13 15:50:52 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:50:54 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:50:54 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:50:56 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:51:19 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:51:22 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:51:22 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:51:24 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:54:02 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:54:05 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:54:05 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:54:07 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:54:28 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 15:54:31 DEBUG BikeShopController:116 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:54:31 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:54:33 INFO  BikeShopController:57 - steven : is viewing available bikes
+2021-02-13 15:56:19 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 15:59:37 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 15:59:40 DEBUG BikeShopController:117 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:59:40 DEBUG BikeShopController:43 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 15:59:41 INFO  BikeShopController:58 - steven : is viewing available bikes
+2021-02-13 16:01:48 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 16:01:52 DEBUG BikeShopController:117 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:01:52 DEBUG BikeShopController:43 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:01:53 INFO  BikeShopController:58 - steven : is viewing available bikes
+2021-02-13 16:06:18 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 16:06:21 DEBUG BikeShopController:117 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:06:21 DEBUG BikeShopController:43 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:06:22 INFO  BikeShopController:58 - steven : is viewing available bikes
+2021-02-13 16:12:45 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 16:12:47 DEBUG BikeShopController:117 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:12:47 DEBUG BikeShopController:43 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:12:52 INFO  BikeShopController:58 - steven : is viewing available bikes
+2021-02-13 16:14:13 INFO  BikeShopController:41 - User is logging in.
+2021-02-13 16:14:15 DEBUG BikeShopController:117 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:14:15 DEBUG BikeShopController:43 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:14:16 INFO  BikeShopController:58 - steven : is viewing available bikes
+2021-02-13 16:14:18 DEBUG BikeShopController:138 - Added product to user: Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:40:44 INFO  BikeShopController:42 - User is logging in.
+2021-02-13 16:40:49 DEBUG BikeShopController:118 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:40:49 DEBUG BikeShopController:44 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:40:50 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:40:56 DEBUG BikeShopController:141 - Added offer to bicycle: Product{id=2, name='Bike 2', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 16:44:32 INFO  BikeShopController:42 - User is logging in.
+2021-02-13 16:44:35 DEBUG BikeShopController:118 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:44:35 DEBUG BikeShopController:44 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:44:36 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:44:42 DEBUG BikeShopController:142 - Added offer to bicycle: Product{id=2, name='Bike 2', offers=[Offer{id=1, accountId=1, offer=2.01}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 16:44:57 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:45:24 DEBUG BikeShopController:142 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=2.22}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 16:46:41 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:46:49 DEBUG BikeShopController:142 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=2.22}, Offer{id=1, accountId=1, offer=1.99}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 16:53:40 INFO  BikeShopController:42 - User is logging in.
+2021-02-13 16:53:43 DEBUG BikeShopController:118 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:53:43 DEBUG BikeShopController:44 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 16:53:44 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:53:54 DEBUG BikeShopController:142 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=1.99}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 16:54:01 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 16:54:06 DEBUG BikeShopController:142 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=5.99}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 17:17:50 INFO  BikeShopController:42 - User is logging in.
+2021-02-13 17:17:52 DEBUG BikeShopController:125 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 17:17:52 DEBUG BikeShopController:44 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 17:17:54 INFO  BikeShopController:61 - steven : is viewing available bikes
+2021-02-13 17:17:58 DEBUG BikeShopController:149 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=2.0, isAccepted=false}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 17:43:55 INFO  BikeShopController:39 - User is logging in.
+2021-02-13 17:43:59 DEBUG BikeShopController:122 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 17:43:59 DEBUG BikeShopController:41 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 18:35:32 INFO  BikeShopController:39 - User is logging in.
+2021-02-13 18:35:34 DEBUG BikeShopController:145 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 18:35:34 DEBUG BikeShopController:41 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 19:02:51 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:02:55 DEBUG BikeShopController:157 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:02:55 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:06:14 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:06:19 DEBUG BikeShopController:157 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:06:19 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:10:10 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:10:13 DEBUG BikeShopController:158 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:10:13 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:27:59 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:28:02 DEBUG BikeShopController:169 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:28:02 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:28:32 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:28:35 DEBUG BikeShopController:169 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:28:35 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:29:29 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 19:29:33 DEBUG BikeShopController:171 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 19:29:33 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:25:18 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 22:25:22 DEBUG BikeShopController:171 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:25:22 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:25:28 INFO  BikeShopController:94 - Removed: Product{id=3, name='Bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 22:25:28 INFO  BikeShopController:96 - Removed: Product{id=3, name='Bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 22:27:16 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 22:27:21 DEBUG BikeShopController:171 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:27:21 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:27:26 INFO  BikeShopController:94 - Removed: Product{id=3, name='Bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-13 22:29:14 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 22:29:17 DEBUG BikeShopController:169 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:29:17 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:54:17 INFO  BikeShopController:36 - User is registering a new account
+2021-02-13 22:54:28 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 22:54:31 DEBUG BikeShopController:173 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 22:54:31 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 22:54:46 INFO  BikeShopController:66 - User leaving!
+2021-02-13 22:56:20 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 22:56:24 DEBUG BikeShopController:173 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 22:56:24 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:05:51 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:05:56 DEBUG BikeShopController:174 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:05:56 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:08:16 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:08:20 DEBUG BikeShopController:175 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:08:20 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:10:01 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:10:07 DEBUG BikeShopController:175 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:10:07 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:11:14 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:11:17 DEBUG BikeShopController:177 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:11:17 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:12:32 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:12:35 DEBUG BikeShopController:174 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:12:35 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-13 23:30:03 INFO  BikeShopController:40 - User is logging in.
+2021-02-13 23:30:09 DEBUG BikeShopController:174 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 23:30:09 DEBUG BikeShopController:42 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-13 23:30:12 INFO  BikeShopController:59 - steven : is viewing available bikes
+2021-02-13 23:30:21 DEBUG BikeShopController:198 - Added offer to bicycle: Product{id=3, name='Bike 3', offers=[Offer{id=1, accountId=1, offer=1.65, status=Status [id=1, name=Available]}], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-14 14:16:22 INFO  BikeShopController:40 - User is logging in.
+2021-02-14 14:16:28 DEBUG BikeShopController:174 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 14:16:28 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 14:49:42 INFO  BikeShopController:40 - User is logging in.
+2021-02-14 14:49:45 DEBUG BikeShopController:178 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 14:49:45 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:09:03 INFO  BikeShopController:36 - User is registering a new account
+2021-02-14 15:09:09 INFO  BikeShopController:40 - User is logging in.
+2021-02-14 15:09:12 DEBUG BikeShopController:185 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:09:12 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:18:45 INFO  BikeShopController:40 - User is logging in.
+2021-02-14 15:18:47 DEBUG BikeShopController:185 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:18:47 DEBUG BikeShopController:42 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:38:57 INFO  BikeShopController:42 - User is logging in.
+2021-02-14 15:39:00 DEBUG BikeShopController:196 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:39:00 DEBUG BikeShopController:44 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:42:10 INFO  BikeShopController:38 - User is registering a new account
+2021-02-14 15:42:17 INFO  BikeShopController:42 - User is logging in.
+2021-02-14 15:42:19 DEBUG BikeShopController:197 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:42:19 DEBUG BikeShopController:44 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:48:04 INFO  BikeShopController:42 - User is logging in.
+2021-02-14 15:48:06 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 15:48:06 DEBUG BikeShopController:44 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 16:53:41 INFO  BikeShopController:43 - User is logging in.
+2021-02-14 16:53:45 DEBUG BikeShopController:213 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 16:53:45 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 16:59:36 INFO  BikeShopController:43 - User is logging in.
+2021-02-14 16:59:41 DEBUG BikeShopController:221 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 16:59:41 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:04:20 INFO  BikeShopController:43 - User is logging in.
+2021-02-14 17:04:24 DEBUG BikeShopController:221 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:04:24 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:14:45 INFO  BikeShopController:43 - User is logging in.
+2021-02-14 17:14:48 DEBUG BikeShopController:224 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:14:48 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:15:00 INFO  BikeShopController:123 - 3.99 was rejected.
+2021-02-14 17:35:06 INFO  BikeShopController:43 - User is logging in.
+2021-02-14 17:35:10 DEBUG BikeShopController:223 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:35:10 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-14 17:35:40 INFO  BikeShopController:116 - 3.99 was accepted. Offers List updated: [Offer{id=2, accountId=2, offer=3.99, status=Status [id=4, name=Accepted]}, Offer{id=1, accountId=1, offer=2.75, status=Status [id=5, name=Rejected]}]
+2021-02-14 17:35:40 INFO  BikeShopController:123 - 3.99 was rejected. Offers List updated: [Offer{id=2, accountId=2, offer=3.99, status=Status [id=5, name=Rejected]}, Offer{id=1, accountId=1, offer=2.75, status=Status [id=5, name=Rejected]}]
+2021-02-16 10:17:06 INFO  BikeShopController:39 - User is registering a new account
+2021-02-16 10:17:15 DEBUG BikeShopController:201 - Account{id=0, username='test', password='test2', role=Role [id=1, name=Customer]}
+2021-02-16 10:20:33 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:20:41 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:22:22 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:22:26 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:27:56 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:28:00 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:33:20 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:33:27 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:34:57 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:35:03 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:40:03 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:40:09 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:43:15 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:43:21 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:44:31 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:44:36 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:45:41 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:45:46 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:50:06 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:50:10 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:50:36 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:50:40 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:51:27 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:51:31 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:51:53 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:51:59 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:52:23 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:52:27 DEBUG BikeShopController:227 - User entered a username that doesn't exist.
+2021-02-16 10:57:23 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 10:57:27 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 10:57:27 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:02:09 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:02:54 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:02:58 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:02:58 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:02:59 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:04:33 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:04:37 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:04:37 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:04:43 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:04:55 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:07:55 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:07:58 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:07:58 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:08:00 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:09:24 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:09:27 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:09:27 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:09:28 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:10:30 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:10:34 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:10:34 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:10:36 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:13:45 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:13:48 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:13:48 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:13:49 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:18:38 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:18:42 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:18:42 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 11:18:43 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 11:32:13 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:32:19 DEBUG BikeShopController:230 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 11:32:19 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 11:33:43 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 11:33:48 DEBUG BikeShopController:230 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 11:33:48 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 12:26:53 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 12:26:57 DEBUG BikeShopController:230 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 12:26:57 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 12:29:29 INFO  BikeShopController:39 - User is registering a new account
+2021-02-16 12:29:40 DEBUG BikeShopController:201 - Account{id=0, username='test', password='23', role=Role [id=1, name=Customer]}
+2021-02-16 12:29:41 DEBUG BikeShopController:204 - Account{id=3, username='test', password='23', role=Role [id=1, name=Customer]}
+2021-02-16 12:30:07 INFO  BikeShopController:62 - test : is viewing available bikes
+2021-02-16 12:30:38 DEBUG BikeShopController:254 - Added offer to bicycle: Product{id=2, name='bike 2', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 12:30:45 INFO  BikeShopController:62 - test : is viewing available bikes
+2021-02-16 15:58:30 DEBUG BikeShopController:254 - Added offer to bicycle: Product{id=3, name='bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 16:25:14 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 16:25:17 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:25:17 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:25:19 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 16:25:30 DEBUG BikeShopController:253 - Added offer to bicycle: Product{id=3, name='bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 16:25:38 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 16:30:38 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 16:30:43 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:30:43 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:30:45 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 16:30:56 DEBUG BikeShopController:253 - Added offer to bicycle: Product{id=3, name='bike 3', offers=[], status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 16:30:59 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 16:59:29 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 16:59:33 DEBUG BikeShopController:230 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:59:33 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 16:59:34 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 17:37:13 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 17:38:52 INFO  BikeShopController:69 - User leaving!
+2021-02-16 17:39:03 INFO  BikeShopController:39 - User is registering a new account
+2021-02-16 17:39:36 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 17:39:41 DEBUG BikeShopController:230 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 17:39:41 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 17:44:56 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 17:45:01 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 17:45:01 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 17:56:57 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 17:57:02 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 17:57:02 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:03:50 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:03:54 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:03:54 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:04:22 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:04:26 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:04:26 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:23:24 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:23:28 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:23:28 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:26:14 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:26:21 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:26:21 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:28:25 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:28:28 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:28:28 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:28:53 INFO  BikeShopController:48 - User leaving!
+2021-02-16 18:28:59 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:29:03 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:29:03 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:33:45 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 18:33:49 DEBUG BikeShopController:231 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 18:33:49 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:23:38 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 20:23:42 DEBUG BikeShopController:193 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:23:42 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:25:55 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 20:25:59 DEBUG BikeShopController:193 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:25:59 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:28:50 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 20:28:54 DEBUG BikeShopController:193 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 20:28:54 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 20:28:56 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-16 20:29:27 DEBUG BikeShopController:216 - Added offer to bicycle: Product{id=2, name='bike 2', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 20:34:39 INFO  BikeShopController:69 - User leaving!
+2021-02-16 20:39:49 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 20:39:54 DEBUG BikeShopController:193 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:39:54 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:42:11 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 20:42:14 DEBUG BikeShopController:194 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 20:42:14 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:48:31 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 21:48:34 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:48:34 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:52:55 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 21:53:00 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:53:00 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:56:53 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 21:56:56 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:56:56 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:59:07 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 21:59:10 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 21:59:10 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:00:12 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:00:15 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:00:15 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:02:51 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:02:55 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:02:55 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:06:26 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:06:30 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:06:30 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:08:26 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:08:29 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:08:29 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:08:50 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:08:54 DEBUG BikeShopController:199 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:08:54 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:14:15 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:14:20 DEBUG BikeShopController:199 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:14:20 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:18:51 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:18:55 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:18:55 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:19:05 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:19:09 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:19:09 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:19:39 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:19:43 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:19:43 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:19:48 INFO  BikeShopController:61 - steven : is viewing available bikes
+2021-02-16 22:21:51 INFO  BikeShopController:61 - steven : is viewing available bikes
+2021-02-16 22:22:08 DEBUG BikeShopController:222 - Added offer to bicycle: Product{id=2, name='bike 2', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-16 22:22:28 INFO  BikeShopController:68 - User leaving!
+2021-02-16 22:22:36 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:22:40 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:22:40 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:26:36 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:26:40 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:26:40 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:27:18 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:27:22 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:27:22 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:27:23 INFO  BikeShopController:61 - steven : is viewing available bikes
+2021-02-16 22:27:47 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:27:50 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:27:50 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-16 22:30:03 INFO  BikeShopController:68 - User leaving!
+2021-02-16 22:30:08 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 22:30:11 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 22:30:11 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:17:44 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:17:50 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:17:50 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:20:27 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:20:31 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:20:31 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:22:23 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:22:27 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:22:27 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:22:51 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:22:55 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:22:55 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:23:23 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:23:33 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:23:33 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:26:03 INFO  BikeShopController:43 - User is logging in.
+2021-02-16 23:26:07 DEBUG BikeShopController:198 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-16 23:26:07 DEBUG BikeShopController:45 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 00:09:17 INFO  BikeShopController:43 - User is logging in.
+2021-02-17 00:09:20 DEBUG BikeShopController:198 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 00:09:20 DEBUG BikeShopController:45 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 00:47:32 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 00:47:35 DEBUG BikeShopController:201 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 00:47:35 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 00:47:38 INFO  BikeShopController:71 - User leaving!
+2021-02-17 00:56:05 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 00:56:08 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 00:56:08 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:04:06 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:04:09 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:04:09 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:05:15 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:05:18 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:05:18 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:25:21 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:25:24 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:25:24 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:28:07 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:28:10 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:28:10 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:31:05 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:31:09 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:31:09 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:31:51 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:31:54 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:31:54 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:32:42 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:32:46 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:32:46 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:33:37 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:33:41 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:33:41 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:38:46 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:38:49 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:38:49 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:40:52 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:40:56 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:40:56 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:41:55 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:41:58 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:41:58 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:43:23 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:43:25 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:43:25 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:44:36 INFO  BikeShopController:72 - User leaving!
+2021-02-17 01:44:43 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:44:49 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:44:49 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:46:28 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:46:32 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:46:32 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:53:46 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:53:50 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:53:50 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 01:55:45 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:55:48 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:55:48 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:55:50 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 01:56:28 DEBUG BikeShopController:226 - Added offer to bicycle: Product{id=8, name='Dirt bike', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 01:58:42 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 01:58:45 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:58:45 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 01:58:47 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 01:59:13 DEBUG BikeShopController:227 - Added offer to bicycle: Product{id=3, name='bike 3', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 02:01:52 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:01:57 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:01:57 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:02:06 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:02:18 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:02:23 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:02:23 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:04:12 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:04:20 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:04:20 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:04:27 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 02:04:50 DEBUG BikeShopController:227 - Added offer to bicycle: Product{id=3, name='bike 3', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 02:04:53 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:04:57 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:05:01 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:05:01 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:10:54 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:10:58 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:10:58 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:11:00 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 02:11:31 DEBUG BikeShopController:227 - Added offer to bicycle: Product{id=2, name='bike 2', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 02:11:33 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 02:11:42 DEBUG BikeShopController:227 - Added offer to bicycle: Product{id=2, name='bike 2', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 02:11:44 INFO  BikeShopController:62 - steven : is viewing available bikes
+2021-02-17 02:11:52 DEBUG BikeShopController:227 - Added offer to bicycle: Product{id=2, name='bike 2', status=Status [id=1, name=Available], category='Bicycles'}
+2021-02-17 02:12:01 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:12:06 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:12:11 DEBUG BikeShopController:202 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:12:11 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:16:18 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:16:21 DEBUG BikeShopController:202 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:16:21 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:16:30 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:52:52 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:52:57 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:52:57 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:53:40 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:53:44 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:53:44 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:55:19 INFO  BikeShopController:40 - User is registering a new account
+2021-02-17 02:55:25 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:55:32 DEBUG BikeShopController:206 - Invalid password
+2021-02-17 02:55:41 DEBUG BikeShopController:203 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:55:41 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 02:55:43 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:55:47 INFO  BikeShopController:40 - User is registering a new account
+2021-02-17 02:55:59 DEBUG BikeShopController:174 - Account{id=0, username='erick', password='erick', role=Role [id=1, name=Customer]}
+2021-02-17 02:56:00 DEBUG BikeShopController:177 - Account{id=4, username='erick', password='erick', role=Role [id=1, name=Customer]}
+2021-02-17 02:56:03 INFO  BikeShopController:72 - User leaving!
+2021-02-17 02:56:07 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:56:11 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:56:11 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:58:37 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 02:58:40 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 02:58:40 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:00:43 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 03:00:46 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:00:46 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:01:49 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 03:01:54 DEBUG BikeShopController:203 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 03:01:54 DEBUG BikeShopController:46 - Account{id=1, username='steven', password='test', role=Role [id=1, name=Customer]}
+2021-02-17 03:01:56 INFO  BikeShopController:72 - User leaving!
+2021-02-17 03:02:01 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 03:02:04 DEBUG BikeShopController:203 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:02:04 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:03:14 INFO  BikeShopController:40 - User is registering a new account
+2021-02-17 03:03:19 INFO  BikeShopController:44 - User is logging in.
+2021-02-17 03:03:22 DEBUG BikeShopController:204 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
+2021-02-17 03:03:22 DEBUG BikeShopController:46 - Account{id=2, username='esteban', password='test', role=Role [id=2, name=Employee]}
